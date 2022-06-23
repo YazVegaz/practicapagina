@@ -1,0 +1,27 @@
+body{
+    background-color: #75c9b7;
+}
+header{
+    background-color: #322e32;
+    text-align: center;
+}
+nav{
+    display: flex;
+}
+.enc{
+    color:#c7ddcc;
+    font-family: arial, sans-serif;
+    text-transform: uppercase;
+}
+.claro{
+    background-color: #c7ddcc;
+}
+article{
+    background-color: #12a4d9;
+}
+aside{
+    background-color: #d91389;
+}
+footer{
+    background-color: #e2d810;
+}
